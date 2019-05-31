@@ -105,6 +105,7 @@ The partioned data can now be validated as compatable with Time Series Instances
 __Rules__
 
 - Databricks cluster should not use GPU Types
+- Databricks cluster must have the following library installed _Name: `Azure`  Type: PyPI_
 
 __Steps__
 
@@ -115,8 +116,19 @@ __Steps__
 # Databricks notebook source
 storage_account_name = ""
 storage_account_access_key = ""
-outputContainerName = "conversion"
-timeSeriesIdProperty = "deviceId"
+outputContainerName = "partition"
+timeSeriesIdProperty = "deviceId_string"
 ```
 
 4. Import and Execute the `TSIPartioningValidator` Notebook
+
+
+## Send the required information to Microsoft Engineering
+
+```python
+# Databricks notebook source
+storage_account_name = ""
+storage_account_access_key = ""
+containerName = "partition"
+tsiEnvContainerName = "env-111a1111-11d1-1111-1111-111111111111"
+```
