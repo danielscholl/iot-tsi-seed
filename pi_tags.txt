@@ -1,0 +1,91 @@
+OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump01.Current Draw.24d72038-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump01.Discharge Flow Rate.4462541d-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump01.Downtime Reason Code.b0f20937-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump01.Filtered Hourly Flow Rate Average.f564c58b-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump01.Hourly Average Efficiency.40dfb3c6-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump01.Hourly Maximum Bearing Temperature.b890d1ec-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump01.Number of Starts Since Maintenance.a08f71ef-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump01.OnOff.9d7d8594-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump01.Operating Time Maintenance Status.baa6e33e-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump01.Operating Time Since Installation.7360a278-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump01.Operating Time Since Maintenance.a6f304ba-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump01.Pump Status.fa8e581e-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump02.Current Draw.24d72009-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump02.Discharge Flow Rate.4462542c-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump02.Downtime Reason Code.b0f20906-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump02.Filtered Hourly Flow Rate Average.f564c5ba-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump02.Hourly Average Efficiency.40dfb3f7-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump02.Hourly Maximum Bearing Temperature.b890d1dd-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump02.Number of Starts Since Maintenance.a08f71de-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump02.OnOff.9d7d85a5-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump02.Operating Time Maintenance Status.baa6e30f-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump02.Operating Time Since Installation.7360a249-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump02.Operating Time Since Maintenance.a6f3048b-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump02.Pump Status.fa8e582f-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump03.Current Draw.24d7201a-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump03.Discharge Flow Rate.4462543f-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump03.Filtered Hourly Flow Rate Average.f564c5a9-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump03.Hourly Average Efficiency.40dfb3e4-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump03.Hourly Maximum Bearing Temperature.b890d1ce-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump03.Number of Starts Since Maintenance.a08f71cd-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump03.OnOff.9d7d85b6-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump03.Operating Time Maintenance Status.baa6e31c-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump03.Operating Time Since Installation.7360a25a-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump03.Operating Time Since Maintenance.a6f30498-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump03.Pump Status.fa8e583c-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump04.Current Draw.24d720eb-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump04.Discharge Flow Rate.446254ce-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump04.Downtime Reason Code.b0f209e4-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump04.Filtered Hourly Flow Rate Average.f564c558-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump04.Hourly Average Efficiency.40dfb315-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump04.Hourly Maximum Bearing Temperature.b890d13f-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump04.Number of Starts Since Maintenance.a08f713c-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump04.OnOff.9d7d8547-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump04.Operating Time Maintenance Status.baa6e3ed-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump04.Operating Time Since Installation.7360a2ab-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump04.Operating Time Since Maintenance.a6f30469-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump04.Pump Status.fa8e58cd-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump05.Current Draw.24d720f4-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump05.Discharge Flow Rate.446254d1-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump05.Downtime Reason Code.b0f209fb-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump05.Filtered Hourly Flow Rate Average.f564c547-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump05.Hourly Average Efficiency.40dfb30a-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump05.Hourly Maximum Bearing Temperature.b890d120-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump05.Number of Starts Since Maintenance.a08f7123-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump05.OnOff.9d7d8558-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump05.Operating Time Maintenance Status.baa6e3f2-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump05.Operating Time Since Installation.7360a2b4-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump05.Operating Time Since Maintenance.a6f30476-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump05.Pump Status.fa8e58d2-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848
+OSIDemo_Pump Station _Pump06.Current Draw.24d720c5-75b4-5fba-1ac2-aedefba8a719
+OSIDemo_Pump Station _Pump06.Discharge Flow Rate.446254e0-342b-50ee-12ea-4d49210b575f
+OSIDemo_Pump Station _Pump06.Downtime Reason Code.b0f209ca-d59e-5236-1ec8-e1be36e01dbd
+OSIDemo_Pump Station _Pump06.Filtered Hourly Flow Rate Average.f564c576-a22e-50f9-3e02-872d4cb5867a
+OSIDemo_Pump Station _Pump06.Hourly Average Efficiency.40dfb33b-57ae-5965-2694-d912862a43f4
+OSIDemo_Pump Station _Pump06.Hourly Maximum Bearing Temperature.b890d111-683f-52ff-3154-bbacab4e6dc4
+OSIDemo_Pump Station _Pump06.Number of Starts Since Maintenance.a08f7112-e4fb-5d77-2d8f-979d8792bc3e
+OSIDemo_Pump Station _Pump06.OnOff.9d7d8569-b528-5be1-27a1-7aa110f8fbd6
+OSIDemo_Pump Station _Pump06.Operating Time Maintenance Status.baa6e3c3-a5ef-5716-2605-633dc2e5a9cd
+OSIDemo_Pump Station _Pump06.Operating Time Since Installation.7360a285-02a7-5d11-0de7-cce3bd9c5188
+OSIDemo_Pump Station _Pump06.Operating Time Since Maintenance.a6f30447-d756-5eee-141a-293e8dc5f98a
+OSIDemo_Pump Station _Pump06.Pump Status.fa8e58e3-7947-5c9c-0d7f-962ccdff79a0
+OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04
+OSIDemo_Pump Station.Number of pumps.0177c5f7-1358-5135-165d-6fe5c891fd4f
+OSIDemo_Pump01.Pump Status - Numerical.72a0f5e6-c627-51b5-0849-3759f3732916
+OSIDemo_Pump02.Pump Status - Numerical.72a0f5d7-c627-51b5-0849-3759f3732916
+OSIDemo_Pump03.Pump Status - Numerical.72a0f5c4-c627-51b5-0849-3759f3732916
+OSIDemo_Pump04.Pump Status - Numerical.72a0f535-c627-51b5-0849-3759f3732916
+OSIDemo_Pump05.Pump Status - Numerical.72a0f52a-c627-51b5-0849-3759f3732916
+OSIDemo_Pump06.Pump Status - Numerical.72a0f51b-c627-51b5-0849-3759f3732916

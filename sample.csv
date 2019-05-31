@@ -1,0 +1,587 @@
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,197.5291,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,192.3548,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,195.4681,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,177.2453,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,179.744,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,177.2966,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,179.6654,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.2527,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.3973,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,182.3111,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.959,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.6916,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.8734,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.0223,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.2112,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.1734,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,182.2516,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.9104,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.777,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,179.3815,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.0244,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.4273,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,180.0605,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,178.8215,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,182.0406,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,177.9612,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,177.3287,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,177.1017,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump01.Bearing Temperature.258452c3-4a3b-5ecf-157a-34f81f110848,179.5009,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump01.Current Draw.24d72038-75b4-5fba-1ac2-aedefba8a719,20.61515,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump01.Current Draw.24d72038-75b4-5fba-1ac2-aedefba8a719,19.57893,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.Current Draw.24d72038-75b4-5fba-1ac2-aedefba8a719,19.90291,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump01.Current Draw.24d72038-75b4-5fba-1ac2-aedefba8a719,19.48565,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump01.Discharge Flow Rate.4462541d-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump01.Discharge Flow Rate.4462541d-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump01.Downtime Reason Code.b0f20937-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump01.Downtime Reason Code.b0f20937-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump01.Downtime Reason Code.b0f20937-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump01.Downtime Reason Code.b0f20937-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Filtered Hourly Flow Rate Average.f564c58b-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Filtered Hourly Flow Rate Average.f564c58b-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump01.Hourly Average Efficiency.40dfb3c6-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump01.Hourly Average Efficiency.40dfb3c6-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Hourly Maximum Bearing Temperature.b890d1ec-683f-52ff-3154-bbacab4e6dc4,197.5291,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.Hourly Maximum Bearing Temperature.b890d1ec-683f-52ff-3154-bbacab4e6dc4,182.3111,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Hourly Maximum Bearing Temperature.b890d1ec-683f-52ff-3154-bbacab4e6dc4,182.2516,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Number of Starts Since Maintenance.a08f71ef-e4fb-5d77-2d8f-979d8792bc3e,22,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.Number of Starts Since Maintenance.a08f71ef-e4fb-5d77-2d8f-979d8792bc3e,23,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Number of Starts Since Maintenance.a08f71ef-e4fb-5d77-2d8f-979d8792bc3e,23,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump01.OnOff.9d7d8594-b528-5be1-27a1-7aa110f8fbd6,0,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.OnOff.9d7d8594-b528-5be1-27a1-7aa110f8fbd6,0.6747829,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump01.OnOff.9d7d8594-b528-5be1-27a1-7aa110f8fbd6,0.3079533,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Maintenance Status.baa6e33e-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Maintenance Status.baa6e33e-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Since Installation.7360a278-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Since Installation.7360a278-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Since Maintenance.a6f304ba-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Operating Time Since Maintenance.a6f304ba-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump01.Pump Status.fa8e581e-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump01.Pump Status.fa8e581e-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,162.2798,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,162.3021,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,161.8499,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,147.8738,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,147.8013,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,145.0775,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,145.4484,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,153.182,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,154.5356,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,151.8355,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,153.278,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,149.1384,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,147.607,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,145.6359,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,148.1441,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,151.2682,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,152.1556,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,147.844,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,145.5977,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,151.9557,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,147.5515,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,148.2463,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,151.4327,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,146.0207,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,149.3323,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,149.9217,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,154.5875,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,154.5567,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,151.6323,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,149.7873,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,148.758,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump01.Suction Pressure.eb8bae2a-a211-5571-069c-736406e00f04,152.788,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,179.7648,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.7576,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,177.4246,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.013,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,179.962,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.7024,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.7251,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.3181,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.6712,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.3879,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.1436,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,182.2389,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,179.3978,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,177.3942,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.8442,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.6394,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.8833,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,177.4117,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.2204,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.8825,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.0502,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.7228,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,179.3137,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.9184,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,181.0956,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.0879,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,177.3457,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,178.3013,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,182.6176,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,180.7334,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,179.5009,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump02.Bearing Temperature.258452f2-4a3b-5ecf-157a-34f81f110848,182.5029,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump02.Current Draw.24d72009-75b4-5fba-1ac2-aedefba8a719,24.30282,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump02.Current Draw.24d72009-75b4-5fba-1ac2-aedefba8a719,24.94069,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.Current Draw.24d72009-75b4-5fba-1ac2-aedefba8a719,24.68698,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump02.Current Draw.24d72009-75b4-5fba-1ac2-aedefba8a719,30.4477,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump02.Discharge Flow Rate.4462542c-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump02.Discharge Flow Rate.4462542c-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump02.Downtime Reason Code.b0f20906-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump02.Downtime Reason Code.b0f20906-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump02.Downtime Reason Code.b0f20906-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump02.Downtime Reason Code.b0f20906-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Filtered Hourly Flow Rate Average.f564c5ba-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Filtered Hourly Flow Rate Average.f564c5ba-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump02.Hourly Average Efficiency.40dfb3f7-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump02.Hourly Average Efficiency.40dfb3f7-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Hourly Maximum Bearing Temperature.b890d1dd-683f-52ff-3154-bbacab4e6dc4,180.7576,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.Hourly Maximum Bearing Temperature.b890d1dd-683f-52ff-3154-bbacab4e6dc4,182.2389,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Hourly Maximum Bearing Temperature.b890d1dd-683f-52ff-3154-bbacab4e6dc4,182.6176,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Number of Starts Since Maintenance.a08f71de-e4fb-5d77-2d8f-979d8792bc3e,16,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.Number of Starts Since Maintenance.a08f71de-e4fb-5d77-2d8f-979d8792bc3e,17,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Number of Starts Since Maintenance.a08f71de-e4fb-5d77-2d8f-979d8792bc3e,17,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump02.OnOff.9d7d85a5-b528-5be1-27a1-7aa110f8fbd6,0.5883326,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.OnOff.9d7d85a5-b528-5be1-27a1-7aa110f8fbd6,0.3375001,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump02.OnOff.9d7d85a5-b528-5be1-27a1-7aa110f8fbd6,0.804444,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Maintenance Status.baa6e30f-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Maintenance Status.baa6e30f-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Since Installation.7360a249-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Since Installation.7360a249-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Since Maintenance.a6f3048b-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Operating Time Since Maintenance.a6f3048b-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump02.Pump Status.fa8e582f-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump02.Pump Status.fa8e582f-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,151.358,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,145.4518,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,146.9115,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,154.8212,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,151.7022,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,151.2902,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,145.8666,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,155,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,152.9726,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,154.2229,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,149.3028,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,146.1108,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,148.8801,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,154.1616,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,146.2998,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,147.0556,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,149.4271,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,153.9074,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,154.7938,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,146.7604,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,152.7651,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,149.5554,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,147.3901,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,154.8937,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,151.6291,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,161.2731,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,158.0656,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,160.4657,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,161.111,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,163.035,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,158.0594,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump02.Suction Pressure.eb8bae1b-a211-5571-069c-736406e00f04,157.4071,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,180.5781,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.7814,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.0619,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,178.4582,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,181.4573,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.7326,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,180.0657,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.1777,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,177.7084,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,181.948,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,179.8783,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.6511,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,181.0392,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,179.9443,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,181.4738,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,180.5776,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,178.7,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,181.9288,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,178.12,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,180.4845,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,177.2675,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,178.9729,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,177.5753,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,178.7545,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,182.2236,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,157.7852,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,114.1182,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,68.93987,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,34.78668,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,14.66164,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,5.161538,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump03.Bearing Temperature.258452e1-4a3b-5ecf-157a-34f81f110848,1.517759,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump03.Current Draw.24d7201a-75b4-5fba-1ac2-aedefba8a719,19.89653,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump03.Current Draw.24d7201a-75b4-5fba-1ac2-aedefba8a719,20.04581,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump03.Current Draw.24d7201a-75b4-5fba-1ac2-aedefba8a719,0,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump03.Discharge Flow Rate.4462543f-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump03.Discharge Flow Rate.4462543f-342b-50ee-12ea-4d49210b575f,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump03.Discharge Flow Rate.4462543f-342b-50ee-12ea-4d49210b575f,0,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump03.Downtime Reason Code.b0f20915-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Filtered Hourly Flow Rate Average.f564c5a9-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Filtered Hourly Flow Rate Average.f564c5a9-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump03.Hourly Average Efficiency.40dfb3e4-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump03.Hourly Average Efficiency.40dfb3e4-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Hourly Maximum Bearing Temperature.b890d1ce-683f-52ff-3154-bbacab4e6dc4,182.7814,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump03.Hourly Maximum Bearing Temperature.b890d1ce-683f-52ff-3154-bbacab4e6dc4,182.7326,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Hourly Maximum Bearing Temperature.b890d1ce-683f-52ff-3154-bbacab4e6dc4,182.2236,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Number of Starts Since Maintenance.a08f71cd-e4fb-5d77-2d8f-979d8792bc3e,6,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Number of Starts Since Maintenance.a08f71cd-e4fb-5d77-2d8f-979d8792bc3e,6,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump03.OnOff.9d7d85b6-b528-5be1-27a1-7aa110f8fbd6,0.3891928,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump03.OnOff.9d7d85b6-b528-5be1-27a1-7aa110f8fbd6,0.05548311,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump03.OnOff.9d7d85b6-b528-5be1-27a1-7aa110f8fbd6,0.4588711,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump03.OnOff.9d7d85b6-b528-5be1-27a1-7aa110f8fbd6,0.09388991,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Maintenance Status.baa6e31c-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Maintenance Status.baa6e31c-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Since Installation.7360a25a-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Since Installation.7360a25a-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Since Maintenance.a6f30498-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump03.Operating Time Since Maintenance.a6f30498-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump03.Pump Status.fa8e583c-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump03.Pump Status.fa8e583c-7947-5c9c-0d7f-962ccdff79a0,0,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,145.1098,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,149.4466,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,146.5728,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,145.7813,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,150.5346,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,146.5338,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,145.9426,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,153.0813,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,147.5344,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,151.1107,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,147.1771,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,150.7512,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,152.4185,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,146.7473,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,153.7845,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,150.5216,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,149.2356,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,154.7766,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,152.2538,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,152.1594,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,146.4706,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,149.5425,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,151.6006,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,150.7316,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,0.1257447,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump03.Suction Pressure.eb8bae08-a211-5571-069c-736406e00f04,0.1500402,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.0946,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.5069,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.8372,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.4951,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.3276,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.0901,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.1744,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.7832,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.2661,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.2019,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.0048,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.2385,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.3907,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,182.4671,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.9321,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,182.5026,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,182.1013,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,196.6191,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,195.7743,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,197.1594,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,193.8254,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,196.0609,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,196.4783,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,193.5323,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,195.4787,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,178.8589,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.6064,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.0811,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,181.0034,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.4432,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,179.665,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump04.Bearing Temperature.25845210-4a3b-5ecf-157a-34f81f110848,180.5929,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump04.Current Draw.24d720eb-75b4-5fba-1ac2-aedefba8a719,29.52884,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump04.Current Draw.24d720eb-75b4-5fba-1ac2-aedefba8a719,30.32113,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump04.Current Draw.24d720eb-75b4-5fba-1ac2-aedefba8a719,35.07583,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump04.Current Draw.24d720eb-75b4-5fba-1ac2-aedefba8a719,30.09783,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump04.Discharge Flow Rate.446254ce-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump04.Discharge Flow Rate.446254ce-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump04.Downtime Reason Code.b0f209e4-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump04.Downtime Reason Code.b0f209e4-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump04.Downtime Reason Code.b0f209e4-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump04.Downtime Reason Code.b0f209e4-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Filtered Hourly Flow Rate Average.f564c558-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Filtered Hourly Flow Rate Average.f564c558-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump04.Hourly Average Efficiency.40dfb315-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump04.Hourly Average Efficiency.40dfb315-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Hourly Maximum Bearing Temperature.b890d13f-683f-52ff-3154-bbacab4e6dc4,181.8372,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump04.Hourly Maximum Bearing Temperature.b890d13f-683f-52ff-3154-bbacab4e6dc4,182.5026,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Hourly Maximum Bearing Temperature.b890d13f-683f-52ff-3154-bbacab4e6dc4,197.1594,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Number of Starts Since Maintenance.a08f713c-e4fb-5d77-2d8f-979d8792bc3e,6,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Number of Starts Since Maintenance.a08f713c-e4fb-5d77-2d8f-979d8792bc3e,6,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump04.OnOff.9d7d8547-b528-5be1-27a1-7aa110f8fbd6,0,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump04.OnOff.9d7d8547-b528-5be1-27a1-7aa110f8fbd6,0.03700552,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump04.OnOff.9d7d8547-b528-5be1-27a1-7aa110f8fbd6,0.9801297,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump04.OnOff.9d7d8547-b528-5be1-27a1-7aa110f8fbd6,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Maintenance Status.baa6e3ed-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Maintenance Status.baa6e3ed-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Since Installation.7360a2ab-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Since Installation.7360a2ab-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Since Maintenance.a6f30469-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Operating Time Since Maintenance.a6f30469-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump04.Pump Status.fa8e58cd-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump04.Pump Status.fa8e58cd-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,155.3634,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,161.6377,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,161.4416,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,154.5973,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,154.0008,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,147.5282,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,151.4069,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,154.1019,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,152.6197,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,145.9605,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,145.4185,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,154.9058,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,148.7273,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,146.6871,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,152.1144,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,146.4634,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,150.9415,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,169.2683,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,166.4704,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,166.8985,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,166.0787,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,164.659,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,160.0101,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,169.3106,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,160.6993,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,148.2404,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,153.121,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,145.8497,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,154.5549,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,151.7487,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,152.4498,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump04.Suction Pressure.eb8baef9-a211-5571-069c-736406e00f04,149.6929,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.8469,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.3072,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.6078,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.1611,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,179.6116,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,181.2119,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,177.8242,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,179.1343,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.4621,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,195.5632,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,194.51,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,194.8517,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,192.1738,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,197.6314,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,194.8973,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,192.949,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,181.8245,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,178.6065,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,181.1106,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,179.9023,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.7764,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,181.2829,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,178.9142,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.1003,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,181.7398,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,178.5686,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,180.5522,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,180.8543,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,177.2497,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,182.6719,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump05.Bearing Temperature.2584520f-4a3b-5ecf-157a-34f81f110848,178.4942,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump05.Current Draw.24d720f4-75b4-5fba-1ac2-aedefba8a719,24.03616,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump05.Current Draw.24d720f4-75b4-5fba-1ac2-aedefba8a719,25.11677,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.Current Draw.24d720f4-75b4-5fba-1ac2-aedefba8a719,25.38721,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump05.Current Draw.24d720f4-75b4-5fba-1ac2-aedefba8a719,24.03266,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump05.Discharge Flow Rate.446254d1-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump05.Discharge Flow Rate.446254d1-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump05.Downtime Reason Code.b0f209fb-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump05.Downtime Reason Code.b0f209fb-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump05.Downtime Reason Code.b0f209fb-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump05.Downtime Reason Code.b0f209fb-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Filtered Hourly Flow Rate Average.f564c547-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Filtered Hourly Flow Rate Average.f564c547-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump05.Hourly Average Efficiency.40dfb30a-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump05.Hourly Average Efficiency.40dfb30a-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Hourly Maximum Bearing Temperature.b890d120-683f-52ff-3154-bbacab4e6dc4,182.8469,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.Hourly Maximum Bearing Temperature.b890d120-683f-52ff-3154-bbacab4e6dc4,197.6314,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Hourly Maximum Bearing Temperature.b890d120-683f-52ff-3154-bbacab4e6dc4,182.7764,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Number of Starts Since Maintenance.a08f7123-e4fb-5d77-2d8f-979d8792bc3e,20,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.Number of Starts Since Maintenance.a08f7123-e4fb-5d77-2d8f-979d8792bc3e,21,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Number of Starts Since Maintenance.a08f7123-e4fb-5d77-2d8f-979d8792bc3e,21,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump05.OnOff.9d7d8558-b528-5be1-27a1-7aa110f8fbd6,0.159056,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump05.OnOff.9d7d8558-b528-5be1-27a1-7aa110f8fbd6,0.9026306,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.OnOff.9d7d8558-b528-5be1-27a1-7aa110f8fbd6,0,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump05.OnOff.9d7d8558-b528-5be1-27a1-7aa110f8fbd6,0.1642564,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Maintenance Status.baa6e3f2-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Maintenance Status.baa6e3f2-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Since Installation.7360a2b4-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Since Installation.7360a2b4-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Since Maintenance.a6f30476-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Operating Time Since Maintenance.a6f30476-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump05.Pump Status.fa8e58d2-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump05.Pump Status.fa8e58d2-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,153.6671,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,147.7104,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,145.7006,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,146.5646,False,False,False
+2019-05-30T01:55:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.0547,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,150.2823,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.6652,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,151.6247,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,154.0126,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,149.2968,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,166.8881,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,164.5666,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,169.8278,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,168.8595,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,163.794,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,166.0962,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,165.6712,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.1128,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,149.6546,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,146.2699,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,154.8887,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.7467,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,151.5099,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.8069,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,147.2876,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,147.9197,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,154.8634,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,152.8315,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,148.4803,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,151.3638,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,154.6802,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump05.Suction Pressure.eb8baee6-a211-5571-069c-736406e00f04,145.3085,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,177.5924,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,178.3591,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,182.3469,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,177.7875,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,182.3035,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,178.9033,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,179.883,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,177.0901,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,179.0609,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,197.0612,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,196.5185,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,193.0387,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,195.6887,False,False,False
+2019-05-30T02:45:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,197.2419,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,194.3365,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,192.7118,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,179.8228,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,177.7241,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,181.913,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,179.5918,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,179.9536,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,181.0163,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,178.2511,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,181.3171,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,192.3524,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,197.3693,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,192.6331,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,193.7439,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,197.7811,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,194.3643,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump06.Bearing Temperature.2584523e-4a3b-5ecf-157a-34f81f110848,193.9258,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump06.Current Draw.24d720c5-75b4-5fba-1ac2-aedefba8a719,25.53059,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump06.Current Draw.24d720c5-75b4-5fba-1ac2-aedefba8a719,24.92498,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump06.Current Draw.24d720c5-75b4-5fba-1ac2-aedefba8a719,25.64196,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump06.Discharge Flow Rate.446254e0-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump06.Discharge Flow Rate.446254e0-342b-50ee-12ea-4d49210b575f,State: 249(Set: 0),False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump06.Downtime Reason Code.b0f209ca-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump06.Downtime Reason Code.b0f209ca-d59e-5236-1ec8-e1be36e01dbd,3,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump06.Downtime Reason Code.b0f209ca-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump06.Downtime Reason Code.b0f209ca-d59e-5236-1ec8-e1be36e01dbd,0,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Filtered Hourly Flow Rate Average.f564c576-a22e-50f9-3e02-872d4cb5867a,166.3199,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump06.Filtered Hourly Flow Rate Average.f564c576-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Filtered Hourly Flow Rate Average.f564c576-a22e-50f9-3e02-872d4cb5867a,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:14.000Z,OSIDemo_Pump Station _Pump06.Hourly Average Efficiency.40dfb33b-57ae-5965-2694-d912862a43f4,96.77294,False,False,False
+2019-05-30T03:00:15.000Z,OSIDemo_Pump Station _Pump06.Hourly Average Efficiency.40dfb33b-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:16.000Z,OSIDemo_Pump Station _Pump06.Hourly Average Efficiency.40dfb33b-57ae-5965-2694-d912862a43f4,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Hourly Maximum Bearing Temperature.b890d111-683f-52ff-3154-bbacab4e6dc4,182.3469,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump06.Hourly Maximum Bearing Temperature.b890d111-683f-52ff-3154-bbacab4e6dc4,197.2419,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Hourly Maximum Bearing Temperature.b890d111-683f-52ff-3154-bbacab4e6dc4,197.3693,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Number of Starts Since Maintenance.a08f7112-e4fb-5d77-2d8f-979d8792bc3e,4,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Number of Starts Since Maintenance.a08f7112-e4fb-5d77-2d8f-979d8792bc3e,4,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump06.OnOff.9d7d8569-b528-5be1-27a1-7aa110f8fbd6,0.706889,False,False,False
+2019-05-30T02:24:00.000Z,OSIDemo_Pump Station _Pump06.OnOff.9d7d8569-b528-5be1-27a1-7aa110f8fbd6,0.8760009,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump06.OnOff.9d7d8569-b528-5be1-27a1-7aa110f8fbd6,0,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump06.OnOff.9d7d8569-b528-5be1-27a1-7aa110f8fbd6,0.9900014,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Maintenance Status.baa6e3c3-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Maintenance Status.baa6e3c3-a5ef-5716-2605-633dc2e5a9cd,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Since Installation.7360a285-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Since Installation.7360a285-02a7-5d11-0de7-cce3bd9c5188,State: 249(Set: 0),False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Since Maintenance.a6f30447-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Operating Time Since Maintenance.a6f30447-d756-5eee-141a-293e8dc5f98a,State: 249(Set: 0),False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station _Pump06.Pump Status.fa8e58e3-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station _Pump06.Pump Status.fa8e58e3-7947-5c9c-0d7f-962ccdff79a0,1,False,False,False
+2019-05-30T01:25:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,State: 249(Set: 0),False,False,False
+2019-05-30T01:35:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,146.024,False,False,False
+2019-05-30T01:40:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,147.5126,False,False,False
+2019-05-30T01:45:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,150.4412,False,False,False
+2019-05-30T01:50:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,150.0944,False,False,False
+2019-05-30T02:00:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,145.2603,False,False,False
+2019-05-30T02:05:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,148.4726,False,False,False
+2019-05-30T02:10:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,148.3402,False,False,False
+2019-05-30T02:15:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,151.682,False,False,False
+2019-05-30T02:20:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,153.6677,False,False,False
+2019-05-30T02:25:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,166.6428,False,False,False
+2019-05-30T02:30:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,164.9513,False,False,False
+2019-05-30T02:35:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,162.1204,False,False,False
+2019-05-30T02:40:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,167.2386,False,False,False
+2019-05-30T02:50:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,164.6154,False,False,False
+2019-05-30T02:55:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,168.6135,False,False,False
+2019-05-30T03:00:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,147.323,False,False,False
+2019-05-30T03:05:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,147.8474,False,False,False
+2019-05-30T03:10:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,146.0352,False,False,False
+2019-05-30T03:15:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,152.0078,False,False,False
+2019-05-30T03:20:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,148.323,False,False,False
+2019-05-30T03:25:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,151.7157,False,False,False
+2019-05-30T03:30:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,152.7826,False,False,False
+2019-05-30T03:35:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,148.6231,False,False,False
+2019-05-30T03:40:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,160.21,False,False,False
+2019-05-30T03:45:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,169.3782,False,False,False
+2019-05-30T03:50:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,166.6548,False,False,False
+2019-05-30T03:55:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,168.5941,False,False,False
+2019-05-30T04:00:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,161.8433,False,False,False
+2019-05-30T04:05:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,168.6187,False,False,False
+2019-05-30T04:10:00.000Z,OSIDemo_Pump Station _Pump06.Suction Pressure.eb8baed7-a211-5571-069c-736406e00f04,169.2162,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump Station.Number of pumps.0177c5f7-1358-5135-165d-6fe5c891fd4f,6,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump Station.Number of pumps.0177c5f7-1358-5135-165d-6fe5c891fd4f,5,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump01.Pump Status - Numerical.72a0f5e6-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump01.Pump Status - Numerical.72a0f5e6-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump02.Pump Status - Numerical.72a0f5d7-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump02.Pump Status - Numerical.72a0f5d7-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump03.Pump Status - Numerical.72a0f5c4-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump03.Pump Status - Numerical.72a0f5c4-c627-51b5-0849-3759f3732916,0,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump04.Pump Status - Numerical.72a0f535-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump04.Pump Status - Numerical.72a0f535-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump05.Pump Status - Numerical.72a0f52a-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump05.Pump Status - Numerical.72a0f52a-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T01:48:00.000Z,OSIDemo_Pump06.Pump Status - Numerical.72a0f51b-c627-51b5-0849-3759f3732916,1,False,False,False
+2019-05-30T03:36:00.000Z,OSIDemo_Pump06.Pump Status - Numerical.72a0f51b-c627-51b5-0849-3759f3732916,1,False,False,False
