@@ -9,9 +9,9 @@ import json
 # Input files source information
 inputStorageAccountName = ""
 inputStorageAccountAccessKey = ""
-inputContainerName = ""
-# folder path inside conatiner
-inputBlobPrefix = ""
+inputContainerName = "conversion"
+# blob path inside container
+inputBlobPrefix = "convert/sample.parquet"
 
 # Dont edit this
 inputFilesPath = "wasbs://" + inputContainerName +"@" + inputStorageAccountName + ".blob.core.windows.net/" + inputBlobPrefix
@@ -22,16 +22,16 @@ inputFilesPath = "wasbs://" + inputContainerName +"@" + inputStorageAccountName 
 environmentStorageAccountName = ""
 environmentStorageAccountAccessKey = ""
 # The below container should exist and should be different that inputContainerName
-environmentConatinerName = ""
+environmentContainerName = "partition"
 
 # Dont edit this
 outputBlobPrefix = "V=1/PT=Import/"
-environmentOutputFilesPath = "wasbs://" + environmentConatinerName +"@" + environmentStorageAccountName + ".blob.core.windows.net/" + outputBlobPrefix
+environmentOutputFilesPath = "wasbs://" + environmentContainerName +"@" + environmentStorageAccountName + ".blob.core.windows.net/" + outputBlobPrefix
 
 # ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # timeSeriesIdProperty should be the name of column in input parquet file which will correspond to the TSID property given while creating TSI environment.
-timeSeriesIdProperty = ""
+timeSeriesIdProperty = "deviceId_string"
 
 # Dont edit this
 # timeStampProperty should be the name of column in input parquet file, based on which you expect to query data in TSI UI.

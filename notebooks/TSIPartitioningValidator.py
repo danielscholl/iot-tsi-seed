@@ -1,8 +1,8 @@
 # Databricks notebook source
 storage_account_name = ""
 storage_account_access_key = ""
-outputContainerName = ""
-timeSeriesIdProperty = ""
+outputContainerName = "conversion"
+timeSeriesIdProperty = "deviceId"
 
 #===================================================================================================================
 # Do not edit anything below

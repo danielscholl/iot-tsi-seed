@@ -9,8 +9,9 @@
 // File source information
 val storageAccountName = ""
 val storageAccountAccessKey = ""
-val containerName = "upload"
-val blobName = "sample.parquet"
+val containerName = "conversion"
+val blobPrefix = "convert"
+val inputFileName = "sample.parquet"
 
 // Mount the folder
 dbutils.fs.mount(
@@ -21,9 +22,9 @@ dbutils.fs.mount(
 // COMMAND ----------
 
 // To check this output file, provide the name and run this cell
-val data2 = sqlContext.read.parquet("/mnt/" + containerName + "/" + blobName)
+val data = sqlContext.read.parquet("/mnt/" + containerName + "/" + blobPrefix + "/" + inputFileName)
 
-display(data2)
+display(data)
 
 // COMMAND ----------
 

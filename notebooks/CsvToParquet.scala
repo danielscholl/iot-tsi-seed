@@ -9,7 +9,7 @@
 // File source information
 val storageAccountName = ""
 val storageAccountAccessKey = ""
-val containerName = "upload"
+val containerName = "conversion"
 val blobPrefix = "convert"
 val inputFileName = "sample.csv"
 
@@ -35,11 +35,11 @@ sqlContext.setConf("spark.sql.parquet.outputTimestampType","TIMESTAMP_MILLIS")
 
 val schema = StructType(Array(
   StructField("timestamp", TimestampType, true),
-  StructField("events_deviceId", StringType, true),
-  StructField("value", DoubleType, true),
-  StructField("questionable", BooleanType, true),
-  StructField("substituted", BooleanType, true),
-  StructField("annotated", BooleanType, true)))
+  StructField("deviceId_string", StringType, true),
+  StructField("value_double", DoubleType, true),
+  StructField("questionable_bool", BooleanType, true),
+  StructField("substituted_bool", BooleanType, true),
+  StructField("annotated_bool", BooleanType, true)))
 
 val data = sqlContext.read
   .format("com.databricks.spark.csv")
